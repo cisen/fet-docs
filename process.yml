@@ -1,0 +1,7 @@
+apps:
+  - script   : YYComponentApp.js
+    instances: 1
+    exec_mode: cluster
+  - script   : YYMobileApp.js
+    instances: 1
+    exec_mode: cluster
