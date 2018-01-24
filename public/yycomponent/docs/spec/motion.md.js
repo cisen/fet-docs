@@ -1,1 +1,1 @@
-webpackJsonp([82,230],{1478:function(t,n){t.exports={content:["article"],meta:{order:12,title:{"zh-CN":"\u52a8\u6548","en-US":"Motion"},link:"http://motion.ant.design",filename:"docs/spec/motion.md"},toc:["ul"]}}});
+webpackJsonp([85,233],{1485:function(t,n){t.exports={content:["article"],meta:{order:12,title:{"zh-CN":"\u52a8\u6548","en-US":"Motion"},link:"http://motion.ant.design",filename:"docs/spec/motion.md"},toc:["ul"]}}});
